@@ -16,7 +16,7 @@ parameter name_ADDDR = 4'hC)             // адрес регистра, где 
 );
 
 
-
+////
 //Регистры для записи значений
 reg [31:0] number_in_group = 0;
 reg [31:0] data = 0;
